@@ -1031,7 +1031,7 @@ define Device/pisen_wmm003n
   DEVICE_VENDOR := PISEN
   DEVICE_MODEL := Cloud Easy Power (WMM003N)
   DEVICE_PACKAGES := kmod-usb2 kmod-usb-chipidea2
-  IMAGE_SIZE := 15744k
+  IMAGE_SIZE := 15872k
   TPLINK_HWID := 0x07030101
 endef
 TARGET_DEVICES += pisen_wmm003n
