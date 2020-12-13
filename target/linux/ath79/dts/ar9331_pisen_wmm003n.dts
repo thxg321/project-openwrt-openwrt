@@ -70,7 +70,7 @@
 
 			firmware: partition@20000 {
 				compatible = "tplink,firmware";
-				reg = <0x20000 0x7d0000>;
+				reg = <0x20000 0xfb0000>;
 				label = "firmware";
 			};
 
